@@ -7,7 +7,11 @@ namespace Tamagochi.Core.UI
     {
         public static void Main()
         {
-            Food food1 = new Food(20.5f, TypeFood.Snack, "Potatos");            
+            Food food1 = new Food(20.5f, TypeFood.Snack, "Potatos");
+            Food food2 = new Food();
+
+            food1.ShowInfo();
+            food2.ShowInfo();
         }
     }
 }
