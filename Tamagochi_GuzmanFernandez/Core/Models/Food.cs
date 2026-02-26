@@ -17,12 +17,7 @@ namespace Tamagochi.Core.Models
             Name = name;
             Description = description;
         }
-        public Food(float nutritiveValue, TypeFood typeFood, string name)
-        {
-            NutritiveValue = nutritiveValue;
-            TypeFood = typeFood;
-        }
-
+        public Food(float nutritiveValue, TypeFood typeFood, string name) : this (nutritiveValue, typeFood, name, DefaultDescription) {}
         public Food(): this (DefaultNutritiveValue, DefaultFood, DefaultName, DefaultDescription){ }
         public override void ShowInfo()
         {
