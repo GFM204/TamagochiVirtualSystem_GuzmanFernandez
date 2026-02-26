@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\guzma\\Desktop\\EjerciciosProgram\\Tamagochi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F69F44AB-E3A1-4BE3-A4BE-FDD628ECFD88}|Tamagochi.csproj|c:\\users\\guzma\\desktop\\ejerciciosprogram\\tamagochi\\core\\ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F69F44AB-E3A1-4BE3-A4BE-FDD628ECFD88}|Tamagochi.csproj|solutionrelative:core\\ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F69F44AB-E3A1-4BE3-A4BE-FDD628ECFD88}|Tamagochi.csproj|c:\\users\\guzma\\desktop\\ejerciciosprogram\\tamagochi\\core\\models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F69F44AB-E3A1-4BE3-A4BE-FDD628ECFD88}|Tamagochi.csproj|solutionrelative:core\\models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F69F44AB-E3A1-4BE3-A4BE-FDD628ECFD88}|Tamagochi.csproj|c:\\users\\guzma\\desktop\\ejerciciosprogram\\tamagochi\\core\\models\\enums\\typefood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F69F44AB-E3A1-4BE3-A4BE-FDD628ECFD88}|Tamagochi.csproj|solutionrelative:core\\models\\enums\\typefood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F69F44AB-E3A1-4BE3-A4BE-FDD628ECFD88}|Tamagochi.csproj|c:\\users\\guzma\\desktop\\ejerciciosprogram\\tamagochi\\core\\models\\enums\\levelhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F69F44AB-E3A1-4BE3-A4BE-FDD628ECFD88}|Tamagochi.csproj|solutionrelative:core\\models\\enums\\levelhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F69F44AB-E3A1-4BE3-A4BE-FDD628ECFD88}|Tamagochi.csproj|c:\\users\\guzma\\desktop\\ejerciciosprogram\\tamagochi\\core\\models\\enums\\emotions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F69F44AB-E3A1-4BE3-A4BE-FDD628ECFD88}|Tamagochi.csproj|solutionrelative:core\\models\\enums\\emotions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F69F44AB-E3A1-4BE3-A4BE-FDD628ECFD88}|Tamagochi.csproj|c:\\users\\guzma\\desktop\\ejerciciosprogram\\tamagochi\\core\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F69F44AB-E3A1-4BE3-A4BE-FDD628ECFD88}|Tamagochi.csproj|solutionrelative:core\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F69F44AB-E3A1-4BE3-A4BE-FDD628ECFD88}|Tamagochi.csproj|c:\\users\\guzma\\desktop\\ejerciciosprogram\\tamagochi\\core\\ui\\uiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F69F44AB-E3A1-4BE3-A4BE-FDD628ECFD88}|Tamagochi.csproj|solutionrelative:core\\ui\\uiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UIConfig.cs",
+              "DocumentMoniker": "C:\\Users\\guzma\\Desktop\\EjerciciosProgram\\Tamagochi\\Core\\UI\\UIConfig.cs",
+              "RelativeDocumentMoniker": "Core\\UI\\UIConfig.cs",
+              "ToolTip": "C:\\Users\\guzma\\Desktop\\EjerciciosProgram\\Tamagochi\\Core\\UI\\UIConfig.cs",
+              "RelativeToolTip": "Core\\UI\\UIConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T09:26:26.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TypeFood.cs",
+              "DocumentMoniker": "C:\\Users\\guzma\\Desktop\\EjerciciosProgram\\Tamagochi\\Core\\Models\\Enums\\TypeFood.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Enums\\TypeFood.cs",
+              "ToolTip": "C:\\Users\\guzma\\Desktop\\EjerciciosProgram\\Tamagochi\\Core\\Models\\Enums\\TypeFood.cs",
+              "RelativeToolTip": "Core\\Models\\Enums\\TypeFood.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T09:00:54.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LevelHealth.cs",
+              "DocumentMoniker": "C:\\Users\\guzma\\Desktop\\EjerciciosProgram\\Tamagochi\\Core\\Models\\Enums\\LevelHealth.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Enums\\LevelHealth.cs",
+              "ToolTip": "C:\\Users\\guzma\\Desktop\\EjerciciosProgram\\Tamagochi\\Core\\Models\\Enums\\LevelHealth.cs",
+              "RelativeToolTip": "Core\\Models\\Enums\\LevelHealth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T08:58:23.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Emotions.cs",
+              "DocumentMoniker": "C:\\Users\\guzma\\Desktop\\EjerciciosProgram\\Tamagochi\\Core\\Models\\Enums\\Emotions.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Enums\\Emotions.cs",
+              "ToolTip": "C:\\Users\\guzma\\Desktop\\EjerciciosProgram\\Tamagochi\\Core\\Models\\Enums\\Emotions.cs",
+              "RelativeToolTip": "Core\\Models\\Enums\\Emotions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T10:25:51.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\Users\\guzma\\Desktop\\EjerciciosProgram\\Tamagochi\\Core\\Models\\Food.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Food.cs",
+              "ToolTip": "C:\\Users\\guzma\\Desktop\\EjerciciosProgram\\Tamagochi\\Core\\Models\\Food.cs",
+              "RelativeToolTip": "Core\\Models\\Food.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T18:59:08.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\guzma\\Desktop\\EjerciciosProgram\\Tamagochi\\Core\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Item.cs",
+              "ToolTip": "C:\\Users\\guzma\\Desktop\\EjerciciosProgram\\Tamagochi\\Core\\Models\\Item.cs",
+              "RelativeToolTip": "Core\\Models\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T18:51:03.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\guzma\\Desktop\\EjerciciosProgram\\Tamagochi\\Core\\UI\\Program.cs",
+              "RelativeDocumentMoniker": "Core\\UI\\Program.cs",
+              "ToolTip": "C:\\Users\\guzma\\Desktop\\EjerciciosProgram\\Tamagochi\\Core\\UI\\Program.cs",
+              "RelativeToolTip": "Core\\UI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T18:49:08.015Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
