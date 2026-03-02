@@ -1,36 +1,38 @@
 ﻿using System;
+using Tamagochi.Core.Interfaces;
 using Tamagochi.Core.Models.Enums;
+using Tamagochi.Core.UI;
 
 namespace Tamagochi.Core.Models
 {
-    public class Food : Item
+    public class Food : AItem
     {
-        public const TypeFood DefaultFood = TypeFood.Snack;
-        public const float DefaultNutritiveValue = 15.5f;
-        public float NutritiveValue { get; set; }
+        private float _nutritiveValue;
+
+        private const float DefaultNutritiveValue = 15.5f;
+        public float NutritiveValue 
+        { 
+            get { return _nutritiveValue; }
+            set
+            {
+                if (value <= 0)
+                {
+                    throw new ArgumentException("Radius must be greater than 0");
+                }
+                _nutritiveValue = value;
+            }
+        }
         public TypeFood TypeFood { get; set; }
 
-        public Food (float nutritiveValue,  TypeFood typeFood, string name, string description)
+        public Food (float nutritiveValue,  TypeFood typeFood = TypeFood.Snack, string name = UIConfig.FoodDefaultValues.DefaultName, string description = UIConfig.FoodDefaultValues.DefaultDescription)
         {
             NutritiveValue = nutritiveValue;
             TypeFood = typeFood;
             Name = name;
             Description = description;
         }
-        public Food(float nutritiveValue, TypeFood typeFood, string name)
-        {
-            NutritiveValue = nutritiveValue;
-            TypeFood = typeFood;
-        }
-
-        public Food(): this (DefaultNutritiveValue, DefaultFood, DefaultName, DefaultDescription){ }
-        public override void ShowInfo()
-        {
-            Console.WriteLine($"Name: {this.Name}");
-            Console.WriteLine($"Nutritive Value: {this.NutritiveValue}");
-            Console.WriteLine($"Food Type: {this.TypeFood.ToString()}");
-            Console.WriteLine($"Description: {this.Description}");
-        }
+        
+        public override string ToString() => $"Name: {Name}  Nutritive Value: {NutritiveValue}     Food Type: {TypeFood.ToString()}     Description: {Description}  ";
 
     }
 }

@@ -14,5 +14,14 @@ namespace Tamagochi.Core.UI
         {
             public const string Welcome = "Hello there, welcome to the legue of legends";
         }
+        public static class FoodDefaultValues
+        {
+            public const string DefaultName = "Turkey";
+            public const string DefaultDescription = "Default description of a Food Item";
+        }
+        public static class CalcStats
+        {
+
+        }
     }
 }
